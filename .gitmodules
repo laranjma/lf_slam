@@ -1,0 +1,15 @@
+[submodule "lidar_pose_graph_frontend"]
+	path = lidar_pose_graph_frontend
+	url = git@github.com:laranjma/lidar_pose_graph_frontend.git
+[submodule "slam_dataset_player"]
+	path = slam_dataset_player
+	url = git@github.com:laranjma/slam_dataset_player.git
+[submodule "slam_datasets"]
+	path = slam_datasets
+	url = git@github.com:laranjma/slam_datasets.git
+[submodule "lidar_2d_odom"]
+	path = lidar_2d_odom
+	url = git@github.com:laranjma/lidar_2d_odom.git
+[submodule "rf2o_laser_odometry"]
+	path = rf2o_laser_odometry
+	url = git@github.com:MAPIRlab/rf2o_laser_odometry.git
