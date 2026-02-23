@@ -13,3 +13,6 @@
 [submodule "rf2o_laser_odometry"]
 	path = rf2o_laser_odometry
 	url = git@github.com:MAPIRlab/rf2o_laser_odometry.git
+[submodule "scan_tools"]
+	path = scan_tools
+	url = git@github.com:laranjma/scan_tools.git
