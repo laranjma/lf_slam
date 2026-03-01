@@ -16,3 +16,6 @@
 [submodule "scan_tools"]
 	path = scan_tools
 	url = git@github.com:laranjma/scan_tools.git
+[submodule "lf_slam_docker"]
+	path = lf_slam_docker
+	url = git@github.com:laranjma/lf_slam_docker.git
